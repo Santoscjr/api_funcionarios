@@ -1,2 +1,2 @@
 # api_funcionarios
-Trabalho de desenvolvimento de sistemas
+	API REST para cadastro e consulta de funcionários - Projeto Java Spring Boot + PostgreSQL
